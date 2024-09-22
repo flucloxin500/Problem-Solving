@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\User\\.vscode\\C Programming\\C tutorial\\.vscode\\Codeforces\\Sheet 3\\C.c","tests":[{"id":1686755615321,"input":"5\n1 -2 0 3 4\n","output":"1 2 0 1 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\.vscode\\C Programming\\C tutorial\\.vscode\\Codeforces\\Sheet 3\\C.c","group":"local","local":true}
